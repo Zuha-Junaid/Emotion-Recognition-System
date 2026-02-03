@@ -50,3 +50,4 @@ GitHub users need to know what to install. Run this command in your terminal to 
 
 `pip freeze > requirements.txt`
 
+https://drive.google.com/file/d/1t-tamgBtBUUr__S8PzvYca0cFNjGsn9r/view?usp=sharing
