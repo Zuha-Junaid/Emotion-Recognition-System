@@ -1,0 +1,19 @@
+tensorflow==2.15.0
+keras==2.15.0
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+numpy
+
+
+
+#Open the terminal (Ctrl + ~)
+#Run: .\venv\Scripts\activate
+#Run: pip install -r requirements.txt
+#Run: python eda.py
+#Run: python train_model.py
+#Run: python evaluate_model.py
+#Run: streamlit run app.py
